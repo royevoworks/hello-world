@@ -1,2 +1,2 @@
 # hello-world
-Test Github tutorial
+The Test repository from Github.
